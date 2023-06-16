@@ -14,8 +14,7 @@
 
 
 #### Screenshots
-![Image](assets/screenshot/Screenshot 2023-06-16 104612.png)
-
+![Image](https://github.com/daniash84/Danielles_Semantic/blob/main/assets/screenshot/Screenshot%202023-06-16%20104612.png)
 
 #### Resources:
 [Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
